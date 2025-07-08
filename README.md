@@ -13,7 +13,7 @@ This is a small learning project I completed to practice data cleaning in Python
   - Analyze sentiment trends and engagement
   - Visualize global and platform-specific activity patterns
 
-## ⚙️ Project Workflow
+## Project Workflow
 
 ### Phase 1: Data Preparation in Python
 - Loaded raw data (CSV)
@@ -25,7 +25,7 @@ This is a small learning project I completed to practice data cleaning in Python
 - Exported cleaned data 
 
 
-### 📊 Phase 2: Power BI Dashboard
+###  Phase 2: Power BI Dashboard
 
 **Basic Visuals:**
 - Sentiment Distribution Pie Chart 
